@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\PingPong.Common\PingPong.Common.csproj" />
+		<ProjectReference Include="..\PingPong.Validation\PingPong.Validation.csproj" />
+	</ItemGroup>
+
+</Project>
